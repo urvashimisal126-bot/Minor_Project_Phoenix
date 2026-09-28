@@ -1,3 +1,0 @@
-Simulation :
-Open the live simulation to learn more about HydroSense
-Link:https://water-leakage-detection-quality-mon.vercel.app/
